@@ -2,7 +2,7 @@
   "name": "vitest-prisma-demo",
   "version": "1.0.0",
   "description": "A minimal Node.js project using Prisma and Vitest",
-  "main": "index.js",
+  "main": "",
   "type": "module",
   "scripts": {
     "test": "vitest"
